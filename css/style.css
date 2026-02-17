@@ -1447,7 +1447,7 @@ blockquote {
 .contact-form textarea {
     width: 100%;
     padding: 12px;
-    background: #f5f5f5; /* Matches the grey from your .pricing class below */
+    background: #f5f5f5;
     border: 1px solid #e1e1e1;
     font-family: inherit;
     font-size: 14px;
@@ -1458,7 +1458,7 @@ blockquote {
 
 .contact-form input:focus, 
 .contact-form textarea:focus {
-    border-color: #b4b4b4; /* Subtle darken effect when clicking */
+    border-color: #b4b4b4;
 }
 
 .contact-form .button {
